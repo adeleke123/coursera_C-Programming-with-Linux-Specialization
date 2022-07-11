@@ -38,5 +38,5 @@ We can do everything with it!
 
 Simple, right? So now let's make this more difficult! You are only allowed to use three "printf" statements, and on top of that, you are not allowed to repeat text inside any of your printf statements.
 
-Warning: Your output needs to look exactly like the above output.
+Your output needs to look exactly like the above output.
 */
