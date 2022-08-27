@@ -73,11 +73,11 @@ int main(void) {
     scanf("%lf%lf%lf", &dry[0], &dry[1], &dry[2]);
 
     // Add one line here!
-    /* The line you add should use the array cookie (and not the array wet) to
+       The line you add should use the array cookie (and not the array wet) to
        find the sum of the wet ingredients of the cookie recipe and store that sum
        in the variable totalWet. Use only indexed notation to address the cookie
        array (that is, you need to use two pairs of brackets [..]).
-     */
+    */
 
     printf("Total amount of wet ingredients: %.2lf grams.\n", totalWet);
 
@@ -107,4 +107,4 @@ int main(void) {
 
     return 0;
 }
-*/
+
