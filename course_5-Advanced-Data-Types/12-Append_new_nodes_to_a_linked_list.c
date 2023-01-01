@@ -39,6 +39,8 @@ struct point * append (struct point * end, struct point * newpt) {
 } 
 
 /*
+Program Explanation
+
 #include <stdio.h>
 
 This line includes the standard I/O library in the program. This library includes functions for input and output, such as printf and scanf.
