@@ -73,7 +73,6 @@ Remi 18
 Output:
 New student created: Remi is 18 years old.
 
-
 Program Explanation
 
 #include <stdio.h>
